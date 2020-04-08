@@ -5,4 +5,4 @@ Rpg game from python with pygame
 UP_Arrow = Jump, 
 z = Slash, 
 Space = Bow, 
-x = Pick Up, 
+x = Pick Up
